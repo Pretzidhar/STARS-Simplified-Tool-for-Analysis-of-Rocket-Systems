@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="640C64B0D498F79344E20B5435348DE857E9F778">
+
+  <entryPoint>Copy_of_appp</entryPoint>
+
+  <name>STARS</name>
+
+  <version>1.1</version>
+
+  <createdByMATLABRelease>(R2018a)</createdByMATLABRelease>
+
+  <GUID>b0229cf4-b21a-4afe-9427-1d102ca8836b</GUID>
+
+  <summary>Simplified Tool for Analysis of Rocket Systems</summary>
+
+  <description>A basic tool to calculate pre design sizing  and performance parametesr for Liquid Rocket Engine (LRE) systems.</description>
+
+  <author>
+    <name>Team Dhruv</name>
+    <contact></contact>
+    <organization>SSERD</organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>7</numFiles>
+
+  <created>2020-10-20T10:12:03Z</created>
+
+  <appEntries>
+    <appFile>/int_conic.m</appFile>
+    <appFile>/PROPELLANT DATA.xlsx</appFile>
+    <appFile>/propellanttanks.m</appFile>
+    <appFile>/Copy_of_appp.mlapp</appFile>
+    <appFile>/int_bell.m</appFile>
+    <appFile>/Injector.m</appFile>
+    <appFile>/pressurefeed.m</appFile>
+  </appEntries>
+
+</appProperties>
